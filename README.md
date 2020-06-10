@@ -1,1 +1,1 @@
-# Smith-Waterman-algorithm
+# Sequence alignment algorithms
