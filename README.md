@@ -6,8 +6,8 @@
   
   -Needle-semi
   
-  -Needleman Wunsch
+  -Needleman-Wunsch
   
-  -Smith Waterman
+  -Smith-Waterman
   
   -Water
