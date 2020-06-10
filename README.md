@@ -1,13 +1,13 @@
 # Sequence alignment algorithms
 
-  Global alignment
+  -Global alignment
   
-  Global alingment proteins
+  -Global alignment proteins
   
-  Needle-semi
+  -Needle-semi
   
-  Needleman Wunsch
+  -Needleman Wunsch
   
-  Smith Waterman
+  -Smith Waterman
   
-  Water
+  -Water
